@@ -1,0 +1,41 @@
+{
+    "Mens":[
+        {
+            "image1":"xyz",
+            "image2":"abc",
+            "image3":"zyx",
+            "image4":"cba",
+            "title":"titleMen",
+            "description":"Mens Page",
+            "price":2400,
+            "r-price":2800,
+            "off":50
+        }
+    ],
+    "Women":[
+        {
+            "image1":"xyz",
+            "image2":"abc",
+            "image3":"zyx",
+            "image4":"cba",
+            "title":"titleWomen",
+            "description":"Womens Page",
+            "price":400,
+            "r-price":2800,
+            "off":60
+        }
+    ],
+    "Kids":[
+        {
+            "image1":"xyz",
+            "image2":"abc",
+            "image3":"zyx",
+            "image4":"cba",
+            "title":"titleKid",
+            "description":"kids Page",
+            "price":200,
+            "r-price":800,
+            "off":25
+        }
+    ]
+}

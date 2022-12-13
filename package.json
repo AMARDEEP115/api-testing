@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "api-testing",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMARDEEP115/api-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMARDEEP115/api-testing/issues"
+  },
+  "homepage": "https://github.com/AMARDEEP115/api-testing#readme"
+}
