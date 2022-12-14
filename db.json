@@ -1,17 +1,32 @@
 {
-    "admin":{
-        "name":"admin",
-        "password":"admin@123",
-        "email":"admin@xyz.com",
-        "admi":true
-    },
     "user":[
         {
             "id":1,
-            "name":"UserName",
-            "password":"user@123",
-            "adim":false
-        }
+            "name":"Amar",
+            "email":"amar@xyz.com",
+            "password":"Amar@12345",
+            "user":true,
+            "employee":false,
+            "admin":false
+        },
+        {
+          "id":2,
+            "name":"Prabhat",
+            "email":"Prabhat@xyz.com",
+            "password":"Prabhat@12345",
+            "user":false,
+            "employee":true,
+            "admin":false
+        },
+        {
+          "id":3,
+          "name":"admin",
+          "password":"admin@123",
+          "email":"admin@xyz.com",
+          "admin":true,
+          "user":false,
+          "employee":false
+        }        
     ],
     "wishlist":[
         {
