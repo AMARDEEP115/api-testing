@@ -5,6 +5,7 @@
             "name":"Amar",
             "email":"amar@xyz.com",
             "password":"Amar@12345",
+            "number": 6388898362,
             "user":true,
             "employee":false,
             "admin":false
@@ -14,6 +15,7 @@
             "name":"Prabhat",
             "email":"Prabhat@xyz.com",
             "password":"Prabhat@12345",
+            "number": 9330159522,
             "user":false,
             "employee":true,
             "admin":false
@@ -23,6 +25,7 @@
           "name":"admin",
           "password":"admin@123",
           "email":"admin@xyz.com",
+          "number":1234567891,
           "admin":true,
           "user":false,
           "employee":false
